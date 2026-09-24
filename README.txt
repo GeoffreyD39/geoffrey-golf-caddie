@@ -1,9 +1,11 @@
-Geoffrey's Golf Caddie PWA v1.1
+Geoffrey's Golf Caddie — PWA v1.2
 
 Wijzigingen:
-- Historische ronde gecorrigeerd naar 23-09-2026
-- Rondes kunnen worden bewerkt
-- Rondes kunnen worden verwijderd met bevestiging
-- Clubstatistieken worden na wijzigen/verwijderen opnieuw berekend
-- Caddie-status is duidelijk als informatieblok
-- Database migratie naar versie 2 met behoud van bestaande data
+- Actuele HCP rechtsboven is handmatig aanpasbaar.
+- Handicap wordt per gespeelde ronde historisch bewaard.
+- Compactere rondeweergave voor Samsung Galaxy S23+.
+- Vorige/Volgende zijn eerder zichtbaar zonder scrollen.
+- Live blok Totaal / T.o.v. par / Holes hersteld.
+- Scorekaart toont hole, afstand, score en club.
+- Bestaande historie, bewerken/verwijderen en wake lock blijven behouden.
+- Data-opslag blijft geoffrey-golf-v1; schema migreert naar versie 3.
